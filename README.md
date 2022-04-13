@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Morel-Mathieu, a french student :tada: available for an internship :tada:
+- 👋 Hi, I’m @Morel-Mathieu, a french student 🎉 internship for 3 months 🎉
 - 👀 I’m interested in listening, composing music, and coding
-- 🌱 I’m currently learning Javascript, Ruby, C# and how to use Ab3d.PowerToys library 
+- 🌱 I’m currently learning Elixir, Phoenix framework, AlpineJS 🖱️
 - 📫 How to reach me : mmrl15@orange.fr
 
 <!---
