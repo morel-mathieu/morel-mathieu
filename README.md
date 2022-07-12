@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Morel-Mathieu, a french student 🎉 internship for 3 months 🎉
-- 👀 I’m interested in listening, composing music, and coding
-- 🌱 I’m currently learning Elixir, Phoenix framework, AlpineJS 🖱️
-- 📫 How to reach me : mmrl15@orange.fr
+👨 : Jeune diplômé passionné par le développement WEB. 
 
-<!---
-Morel-Mathieu/Morel-Mathieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 : En recherche d'emploi dans le développement web, j'aime beaucoup le travail de développeur front-end, mais reste très intéressé par le back-end. Autonome et curieux, j'ai pour ambition d'évoluer vers le métier de développeur web full-stack.
+
+🎸: En-dehors de l'informatique, je suis un passionné de musique, pianiste et guitariste !
+
+📫 How to reach me : mmrl15@orange.fr
