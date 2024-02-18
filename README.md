@@ -1,7 +1,18 @@
-👨 : Jeune diplômé passionné par le développement WEB. 
+# 🖐️ Introduction
 
-🌐 : Attiré par le développement web, j'aime beaucoup le travail de développeur front-end, mais reste très intéressé par le back-end. Autonome et curieux, j'ai pour ambition d'évoluer vers le métier de développeur web full-stack.
+Développeur web junior, passionné par le développement *frontend*. Autonome et curieux, je travaille aussi sur du développement d'API et reste intéressé par le *backend*. Je m'intéresse aussi à certaines notions de *devops*. J'ai pour projet de me former au *CD-CI*, approfondir mes connaissances en Docker et en réseau. 
 
-🎸: En-dehors de l'informatique, je suis un passionné de musique, pianiste et guitariste !
+# 🖱️ Technologies 
 
-📫 How to reach me : mmrl15@orange.fr
+## Frontend : 
+- HTML, CSS, JS
+- Typescript
+- Angular, React.JS
+- Tanstack table, TanStack Query, Chakra UI, Formik, Yup, React Router, redaxios, PrimeNG
+
+## Backend : 
+- PHP
+- Symfony, API Plateform
+
+## Autre : 
+- Docker
