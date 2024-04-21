@@ -1,6 +1,6 @@
 # 🖐️ Introduction
 
-Développeur web junior, passionné par le développement *frontend*. Autonome et curieux, je travaille aussi sur du développement d'API et reste intéressé par le *backend*. Je m'intéresse aussi à certaines notions de *devops*. J'ai pour projet de me former au *CD-CI*, approfondir mes connaissances en Docker et en réseau. 
+Développeur web, passionné par le développement *frontend*. Autonome et curieux, je travaille aussi sur du développement d'API et reste intéressé par le *backend*. Je m'intéresse aussi à certaines notions de *devops*. J'ai pour projet de me former au *CD-CI*, approfondir mes connaissances en Docker et en réseau. 
 
 # 🖱️ Technologies 
 
