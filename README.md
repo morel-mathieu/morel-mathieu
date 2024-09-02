@@ -1,18 +1,9 @@
-# 🖐️ Introduction
+Web developer interested in JavaScript environments. 
 
-Développeur web, passionné par le développement *frontend*. Autonome et curieux, je travaille aussi sur du développement d'API et reste intéressé par le *backend*. Je m'intéresse aussi à certaines notions de *devops*. J'ai pour projet de me former au *CD-CI*, approfondir mes connaissances en Docker et en réseau. 
+I work daily and train on:
 
-# 🖱️ Technologies 
-
-## Frontend : 
-- HTML, CSS, JS
-- Typescript
-- Angular, React.JS
-- Tanstack table, TanStack Query, Chakra UI, Formik, Yup, React Router, redaxios, PrimeNG
-
-## Backend : 
-- PHP
-- Symfony, API Plateform
-
-## Autre : 
-- Docker
+• Next.js for front-end development 
+• Symfony for back-end development 
+• TanStack ecosystem for data management 
+• Docker for containerization 
+• Object-oriented programming and design patterns
