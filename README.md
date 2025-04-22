@@ -1,9 +1,8 @@
-Web developer interested in JavaScript environments. 
+Web Developer (PHP/JavaScript)
 
-I work daily and train on:
-
-- Next.js for front-end development
-- Symfony for back-end development 
-- TanStack ecosystem for data management 
-- Docker for containerization 
-- Object-oriented programming and design patterns
+Main Technologies:
+▸ Symfony
+▸ Next.js & React
+▸ TanStack ecosystem
+▸ Docker
+▸ Object-oriented programming, Design Patterns, and Clean code
